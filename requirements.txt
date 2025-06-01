@@ -2,3 +2,4 @@ kivy
 arabic_reshaper
 python-bidi
 python-vlc
+flet
